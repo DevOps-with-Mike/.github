@@ -18,6 +18,6 @@ Ping Me
 [Slack](https://devopswithmike.slack.com/archives/C04RNLL997D/),
 Please visit 
 [Wandaprep](https://www.wandaprep.com/),
-Checkout our youtube
+Checkout my YouTube Channel
 [DevOps with Mike](https://www.youtube.com/channel/UCJjb4nOkVdZu0VAXsdzEP1Q),
 
